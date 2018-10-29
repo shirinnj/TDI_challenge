@@ -1,5 +1,5 @@
-# TDI_challenge
-TDI challenge project documents
+# TDI_challenge project documents
+
 In summary what I have done so far is reading Yahoo stock prices for 100 stocks (the sampling period is 2009 to 2016) and created 22 most famous technical indicators
 and used them as features for training machine learning models to predict future stock returns. I have anonymized the identity 
 of the entities and applied generic labels so that I can approach this problem as a pure machine learning type exercise. 
